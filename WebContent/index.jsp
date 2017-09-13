@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>WebDemo</h1>
-<hr/>
+<hr color="red"/>
 <h2>hello world!</h2>
 </body>
 </html>
